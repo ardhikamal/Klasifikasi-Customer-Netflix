@@ -7,4 +7,4 @@ i got dataset from kaggle and open source
 This repository tell how the customer behaviour to subscribe netflix
 
 
-hope you enjoy it 
+hope you enjoy it :) 
